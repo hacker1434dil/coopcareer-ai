@@ -45,19 +45,13 @@ One platform that takes a learner from first lesson to first job:
 
 ## Screenshots
 
-<!-- Add your screenshots to the assets/ folder and update the paths below -->
-
-| Landing page | Student dashboard |
+| Landing page hero section | Enterprise platform architecture |
 |---|---|
-| ![Landing](assets/landing.png) | ![Student](assets/student-dashboard.png) |
+| ![CoopCareer AI landing page hero section](assets/landing.png) | ![CoopCareer AI enterprise platform architecture cards](assets/platform-architecture.png) |
 
-| Skill-gap intelligence | Employer matching |
+| About platform audience cards | Student dashboard |
 |---|---|
-| ![Skill gap](assets/skill-gap.png) | ![Matching](assets/employer-matching.png) |
-
-| Certificate verification | Trainer dashboard |
-|---|---|
-| ![Verify](assets/verify-certificate.png) | ![Trainer](assets/trainer-dashboard.png) |
+| ![Rural skill and employment divide and audience cards](assets/about-platform.png) | ![Rahul Deshmukh student dashboard](assets/student-dashboard.png) |
 
 ## Tech Stack
 
